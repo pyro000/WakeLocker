@@ -1,0 +1,13 @@
+{
+ "time": 600,
+ "hotkeys": [
+  [
+   "Ctrl+p",
+   "enabled"
+  ],
+  [
+   "Ctrl+o",
+   "reload"
+  ]
+ ]
+}
